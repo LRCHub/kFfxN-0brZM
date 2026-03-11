@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "巡ループ",
+  "base_artist": "Perfume",
+  "createdAt": "2026-03-11T14:14:16.831812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "巡ループ",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/01_巡ループ_Perfume.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "巡ループ",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_巡ループ_Perfume.txt"
+    }
+  ]
+}
